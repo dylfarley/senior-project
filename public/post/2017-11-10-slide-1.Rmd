@@ -1,0 +1,10 @@
+---
+title: "Slide 1"
+author: Dylan Farley
+date: '2017-11-10'
+slug: slide-1
+categories: []
+tags: []
+---
+
+Here's slide 1 content
