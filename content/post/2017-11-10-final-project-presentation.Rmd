@@ -2,12 +2,12 @@
 title: Plot
 author: Dylan Farley
 date: '2017-11-10'
-slug: final-project-presentation
+slug: plot
 categories: []
 tags: []
 ---
 
-Here's a cool plot
+Here's a sample plot just for fun
 
 ```{r plot, message = FALSE, warning = FALSE}
 library(ggplot2)
